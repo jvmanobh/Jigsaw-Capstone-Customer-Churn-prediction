@@ -14,4 +14,4 @@ At Mobicom telecom, customer churn rate is relatively high. Currently, they have
 
 ### Approach:
 1. **[Customer_Level_aggregation](Capstone.R)**
-1. **[Presentation](Capstone.pdf)**
+2. **[Presentation](Capstone.pdf)**
