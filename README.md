@@ -13,5 +13,5 @@ At Mobicom telecom, customer churn rate is relatively high. Currently, they have
 5. What would be the target segments for proactive retention campaigns? Mobicom would like to save their high revenue customers besides managing churn. Given a budget constraint of a contact list of 20% of the subscriber pool, which subscribers should be prioritised if "revenue saves" is also a priority bseides controlling churn. In other words, controlling churn is the primary objective and revenue saves is the secondary objective.
 
 ### Approach:
-1. **[Customer_Level_aggregation](Capstone.R)**
+1. **[R Code](Capstone.R)**
 2. **[Presentation](Capstone.pdf)**
